@@ -3,4 +3,4 @@ This is my professional repo where I want to give to the audience most of the do
 You need to navegate as followin:
 
  - /main: This is about how I understand the professional success can happen.
- - /PM-Portfolio: you can check most important templates that I use for meeting and PM activities tracking.
+ - /PM-Portfolio: you can check most important templates that I use for meeting and PM & CS activities tracking.
